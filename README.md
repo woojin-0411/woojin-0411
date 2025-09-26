@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **pyhton, html, css, project manager, muchin learning**
 
+- 🌱 my major is **Industrial Engineering & Big Data Analysis**
+
 - 📝 I regularly write articles on [https://blog.naver.com/siverlining0411](https://blog.naver.com/siverlining0411)
 
 - 📫 How to reach me **https://www.instagram.com/woojin0411/**
